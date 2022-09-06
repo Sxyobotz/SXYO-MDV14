@@ -1,1 +1,1 @@
-web: NPM START
+web:node index.js
